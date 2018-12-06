@@ -12,10 +12,19 @@ body {
   margin: 0;
 }
 
-h2 {
+.text p {
+  font-size: 2rem;
+  margin: 0;
+  font-style: italic;
+  color: #000;
+  font-weight: bold;
+}
+
+.text h2 {
   font-size: 4rem;
   margin: .3em 0;
   color: #fff;
+  font-style: normal;
   font-weight: bold;
   line-height: 1.4;
 }
@@ -29,12 +38,6 @@ h2 {
   right: auto;
   max-width: 50em;
   padding: 0 1.5rem;
-}
-
-.text p {
-  font-size: 2rem;
-  margin: 0;
-  font-style: italic;
 }
 
 .banner {
