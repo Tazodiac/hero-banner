@@ -24,3 +24,8 @@ h2 {
   width: 100%;
   bottom: 1.9em;
 }
+
+.banner{
+  position: relative;
+  max-height: 500px;
+}
