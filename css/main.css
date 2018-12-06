@@ -29,6 +29,12 @@ h2 {
   max-width: 50em;
 }
 
+.text p {
+  font-size: 2rem;
+  margin: 0;
+  font-style: italic;
+}
+
 .banner {
   position: relative;
   max-height: 500px;
